@@ -1,0 +1,84 @@
+.swMain .stepContainer{}
+.swMain .stepContainer div.content{height:auto !important;}
+.submit.content{bottom:2%;left:78%;}
+.swMain .stepContainer div.content .submit{background-color:#fff !important;border:0px !important;}
+.bp-wrapper form.standard-form .submit{border:0px !important;}
+.swMain ul.anchor li a .stepDesc{font:bold 12px Verdana,Arial,Helvetica,sans-serif !important;}
+.swMain ul.anchor li a .stepNumber{font:bold 19px Verdana,Arial,Helvetica,sans-serif !important;}
+/**/#termsofuse,#profile,#plan,#msg_cpassword,#msg_username,#msg_password,#msg_cpassword{color:#FF0000;}
+.popup-head{width:70px;}
+#light > a{top:0;right:0;position:absolute;z-index:1002;}
+#light .imgcs{top:0;right:0;position:absolute;z-index:1002;cursor:pointer;}
+.swMain{border:0 solid #CCCCCC;display:block;float:left;overflow:visible;padding:0;position:relative;width:96%;}
+.swMain .stepContainer{border:0 solid #CCCCCC;clear:both;display:block;height:auto !important;margin:0;min-height:230px;padding:0;}
+#wrapper{display:block;float:left;margin:0 0 20px;padding:5px;font:normal 12px Verdana, Arial, Helvetica, sans-serif;color:#5A5655;height:300px;text-align:center;overflow:visible;z-index:88;-webkit-border-radius:5px;-moz-border-radius:5px;width:104%;clear:both;}
+#light .input_fields{padding:8px !important;}
+.swMain .stepContainer .StepTitle{display:block;position:relative;margin:0;border:1px solid #E0E0E0;padding:5px;font:bold 16px Verdana, Arial, Helvetica, sans-serif;color:#5A5655;background-color:#E0E0E0;clear:both;text-align:left;z-index:88;-webkit-border-radius:5px;-moz-border-radius:5px;}
+.swMain ul.anchor{position:relative;display:block;float:left;list-style:none;padding:0px;margin:0px 0 10px;clear:both;border:0px solid #CCCCCC;background:transparent;}
+.swMain ul.anchor li{position:relative;display:block;margin:0;padding:0 !important;border:0px solid #E0E0E0;float:left;width:33.2%;}
+.swMain ul.anchor li a{display:block;float:left;margin:0 -11px 0 0;outline-style:none;padding:3px;position:relative;text-decoration:none;border-radius:0 10px 10px 0;width:185px;z-index:99;}
+.swMain ul.anchor li a .stepNumber{position:relative;float:left;width:30px;text-align:center;padding:5px;padding-top:0;font:bold 45px Verdana, Arial, Helvetica, sans-serif;}
+.swMain ul.anchor li a .stepDesc{position:relative;display:block;float:left;text-align:left;padding:5px;font:bold 20px Verdana, Arial, Helvetica, sans-serif;}
+.swMain ul.anchor li a .stepDesc small{font:normal 12px Verdana, Arial, Helvetica, sans-serif;}
+body .swMain ul.anchor li a.selected{color:#F8F8F8!important;background:#808080!important;border:1px solid #808080!important;cursor:text;z-index:999;}
+.swMain ul.anchor li a.selected:hover{color:#F8F8F8;background:#808080;}
+.swMain ul.anchor li a.done{position:relative;color:#FFF;background:#8CC63F;border:1px solid #8CC63F;z-index:9999;border-left:1px solid #7CB62F;}
+.swMain ul.anchor li a.done:hover{color:#5A5655;background:#8CC63F;border:1px solid #5A5655;}
+.swMain ul.anchor li a.disabled{color:#9b9b9b;background:#F8F8F8;border:1px solid #CCC;cursor:text;}
+.swMain ul.anchor li a.disabled:hover{color:#CCCCCC;background:#F8F8F8;}
+.swMain ul.anchor li a.error{color:#6c6c6c !important;background:#f08f75 !important;border:1px solid #fb3500 !important;}
+.swMain ul.anchor li a.error:hover{color:#000 !important;}
+.swMain .buttonNext{display:block;float:right;margin:5px 3px 0 3px;padding:5px;text-decoration:none;text-align:center;font:bold 13px Verdana, Arial, Helvetica, sans-serif;width:100px;color:#FFF;outline-style:none;background-color:#5A5655;border:1px solid #5A5655;-moz-border-radius:5px;-webkit-border-radius:5px;}
+.swMain .buttonDisabled{color:#F8F8F8 !important;background-color:#CCCCCC !important;border:1px solid #CCCCCC !important;cursor:text;display:none;}
+.swMain .buttonPrevious{display:block;float:right;margin:5px 3px 0 3px;padding:5px;text-decoration:none;text-align:center;font:bold 13px Verdana, Arial, Helvetica, sans-serif;width:100px;color:#FFF;outline-style:none;background-color:#5A5655;border:1px solid #5A5655;-moz-border-radius:5px;-webkit-border-radius:5px;}
+.swMain .buttonFinish{display:block;float:right;margin:5px 10px 0 3px;padding:5px;text-decoration:none;text-align:center;font:bold 13px Verdana, Arial, Helvetica, sans-serif;width:100px;color:#FFF;outline-style:none;background-color:#5A5655;border:1px solid #5A5655;-moz-border-radius:5px;-webkit-border-radius:5px;}
+.txtBox{border:1px solid #CCCCCC;color:#5A5655;font:13px Verdana,Arial,Helvetica,sans-serif;padding:2px;width:430px;}
+.txtBox:focus{border:1px solid #EA8511;}
+.swMain .loader{position:relative;display:none;float:left;margin:2px 0 0 2px;padding:8px 10px 8px 40px;border:1px solid #FFD700;font:bold 13px Verdana, Arial, Helvetica, sans-serif;color:#5A5655;background:#FFF url(../images/loader.gif) no-repeat 5px;-moz-border-radius:5px;-webkit-border-radius:5px;z-index:998;}
+.swMain .msgBox{left:35%;position:relative;display:none;float:left;margin:4px 0 0 5px;border:1px solid #FFD700;background-color:#FFFFDD;font:normal 12px Verdana, Arial, Helvetica, sans-serif;color:#5A5655;-moz-border-radius:5px;-webkit-border-radius:5px;z-index:999;min-width:200px;}
+.swMain .msgBox .content{font:normal 12px Verdana,Arial,Helvetica,sans-serif;padding:0px;float:left;}
+.swMain .msgBox .close{border:1px solid #CCC;border-radius:3px;color:#CCC;display:block;float:right;margin:0 0 0 5px;outline-style:none;padding:0 2px 0 2px;position:relative;text-align:center;text-decoration:none;}
+.swMain .msgBox .close:hover{color:#EA8511;border:1px solid #EA8511;}
+.closebtn{background:none repeat scroll 0 0 #000;border-radius:19px;color:#FFFFFF;font-weight:bold;padding:6px 11px;position:absolute;right:5px;top:14px;cursor:pointer;}
+#light .input_fields{padding:8px !important;background:none repeat scroll 0 0 #F9F9F9;box-shadow:1px 1px 1px rgba(0, 0, 0, 0.1) inset;}
+.pieregWrapper ul{margin:0!important;}
+#pie_register .fields input[type="submit"], #pie_register .fields input[type="reset"]{background:none repeat scroll 0 0 #EA8511;border:0 none;color:#FFFFFF;float:left;left:38%;margin:3px 10px 0 200px;padding:5px;position:absolute;top:93%;}
+.subscribe{float:left;margin:10px 0;text-align:center;width:100%;}
+span#logo{clear:both;display:block;float:left;margin:0px 0;text-align:center;width:100%;}
+#logo img{width:80px !important;}
+#pie_register .fields label{text-align:right;margin-top:10px;}
+#pie_register{border:1px solid #E9E9E9;margin:10px 0!important;background:none repeat scroll 0 0 rgba(255, 255, 255, 0.5);padding:15px;}
+#pie_register .fields{position:static;text-align:center;list-style:none outside none;}
+.actionBar{display:inline-block;margin:0 auto;text-align:center;width:70%;}
+#wrapper h1{font-size:32px;margin:10px 0;color:#FF0000;}
+#wrapper h2{font-size:22px;margin:10px 0;}
+#msg_cpassword, #msg_username, #msg_password, #msg_cpassword ,#msg_email{display:block;color:#ff0000;margin-top:10px;text-align:left;margin-left:195px;}
+.subscribe input[type="checkbox"]{vertical-align:middle;margin:3px 5px 5px;}
+#why_we_ask{display:block;padding:10px;color:#000;text-decoration:none;}
+#login_wrap,.lwa-links-register{display:none;position:relative;top:20px;}
+#login_wrap input{border:1px solid #D5D5D5;border-radius:3px;color:#848484;display:inline-block;margin-bottom:15px;margin-top:0;padding:2px 5px;background:none repeat scroll 0 0 #F9F9F9;box-shadow:1px 1px 1px rgba(0, 0, 0, 0.1) inset;padding:8px !important;}
+#login_wrap #lwa_wp-submit,#login_wrap .lwa-button-remember{width:auto;margin-bottom:0px;background:none repeat scroll 0 0 #EA8511;border:0 none;color:#FFFFFF;float:left;margin-right:10px;padding:5px;}
+body #login_wrap .lwa-rememberme{background:none;border:none;padding:0px!important;margin-bottom:0px;margin-top:3px;vertical-align:top!important;}
+.signin_popup{min-height:300px!important;}
+.piereg_login_error{width:95%;margin-bottom:10px!important;}
+.back_link{display:none;}
+.signin_popup .back_link{text-align:center;width:40%;display:block!important;margin:10px 0;}
+.lostpwd_wrap .back_link{cursor:pointer;top:100%;left:-13px;position:absolute;}
+.error_msg{color:red;display:none;}
+.signin_popup .error_msg{display:block;text-align:center;}
+form#login{background-color:#FFFFFF;position:fixed;padding:40px 25px 25px 25px;width:350px;z-index:999;margin-left:10%;}
+form#login p.status{display:none;}
+.login_overlay{height:100%;width:100%;background-color:#F6F6F6;opacity:0.9;position:fixed;z-index:998;}
+.piereg_login_container .piereg_login_wrapper label{display:block;float:left;margin:0 0 10px;text-align:center;width:21%;}
+.forgetmenot label{float:none !important;left:20%;position:absolute;}
+.piereg_login_wrapper .submit{bottom:-65px;left:20%;position:absolute;}
+.piereg_login_container .piereg_login_wrapper{position:relative;}
+.lwa .lwa-username-label, .lwa .lwa-password-label{padding-right:10px;vertical-align:top;width:20%;}
+body .lwa table{margin:0 auto!important;width:70% !important;}
+.lwa-status-invalid ,.lwa-status{width:95%}
+.lwa-loading{width:93%!important}
+#pie_register .error{margin:0px;color:#FF0000!important;width:92%;}
+td.lwa-submit-button{display:inline-grid!important;}
+div.remem{margin-bottom:10px;}
+a.lwa-links-remember{margin-top:5px;float:left;}
+.lwa-password-label,.lwa-username-label{padding-top:15px!important}
